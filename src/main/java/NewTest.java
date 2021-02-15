@@ -7,6 +7,7 @@ public class NewTest {
 		// Added new file for understanding git functionality
 		
 		System.out.println("Hello");
+		System.out.println("World");
 
 	}
 
